@@ -1,0 +1,417 @@
+.banner-1-custom {
+  font-family: 'Times New Roman', Times, serif;
+  height: 300px;
+  background-color: maroon;
+  color: lightyellow;
+  display: flex;
+  flex-direction: column;
+  padding: 0 150px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-1-custom span,.line2 {
+  margin: 15px 0;
+  width: 50px;
+  height: 1px;
+  border-top: 5px solid #fff;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.icon i {
+  margin: 0 10px 0 10px;
+}
+
+.phone_head {
+  margin: 0 10px 0 10px;
+}
+
+.header_container_dark {
+  background-color: rgb(37, 37, 37);
+  color: rgb(236, 230, 255);
+  padding: 0 50px;
+}
+
+.login_signup_container {
+  display: flex;
+  justify-content: flex-end;
+  /* flex direction style */
+}
+
+.login_signup_container button {
+  background: none;
+  border: none;
+  color: rgb(236, 230, 255);
+
+}
+
+.institute-img-custom {
+  height: 500px;
+  background-image: url("D:/WEB/college/src/images/INSTITUTE.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.institute-heading {
+  position: absolute;
+  top: 40px;
+  left: 97px;
+  text-transform: uppercase;
+}
+
+.hero-footer {
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+background-color: lightcoral;
+opacity: .8;
+}
+
+.custom-link-nav .nav-link {
+  color: rgb(37, 37, 37);
+  padding: 0 10px;
+  border-right: 1px solid rgb(37, 37, 37);
+}
+
+.custom-link-nav .nav-item:last-child .nav-link {
+  border: none;
+}
+
+.custom-link-nav {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-custom .custom-logo {
+  height: 93.2px;
+
+}
+
+.custom-align {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+}
+
+.custom-btn-find {
+  height: 43px;
+  margin-top: 21px;
+  border-radius: 30px;
+}
+
+.nav-custom {
+  padding: 5px 50px;
+}
+
+.service-conatiner {
+  height: 400px;
+  background-color: lightpink;
+}
+
+.circle-div-container {
+  position: relative;
+  height: 300px;
+  width: 809px;
+}
+
+.circular-div {
+  height: 200px;
+  width: 200px;
+
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 50%;
+  position: absolute;
+  border: 1px solid #000;
+  top: 20%;
+}
+
+.circular-div span {
+  text-align: center;
+}
+
+.circular-div.cr1 {
+font-family: 'Times New Roman', Times, serif;
+background-color: palevioletred;
+  left: 21%;
+  color: #fff;
+}
+
+.circular-div.cr2 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rosybrown;
+  left: 43%;
+  color: #fff;
+  border: none;
+  z-index: 2;
+
+}
+
+.circular-div.cr3 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: palevioletred;
+  left: 64%;
+  color: #fff;
+}
+
+.service-info-btn-con .btn {
+  border-radius: 30px;
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  margin: 0 10px;
+}
+
+.service-info-btn-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.module{
+  margin-top: 00px;
+}
+#donation-feature {
+  font-family: 'Times New Roman', Times, serif;
+  bottom: 600px;
+  background: darksalmon;
+  color: darkslateblue;
+  padding: 21px 40px;
+  margin-bottom: 2px;
+}
+
+.heignt-creator{
+  height: 340px;
+  display: flex;
+  justify-content: space-around;
+  background-color: mistyrose;
+}
+
+.bar-chart{
+width: 46px;
+display: flex;
+flex-direction: column-reverse;
+background-color: lightcoral;
+position: relative;
+border-radius: 5px;
+}
+
+.bar-chart p {
+white-space: nowrap;
+  transform: rotate(-90deg);
+}
+.bar-chart div {
+position: absolute;
+top: 20px;
+left: 12px;
+}
+
+.con-chart{
+  height: 100%;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.custom-misc-2-con-chart{
+  padding: 40px 150px;
+  background-color: #f6f5f3;
+}
+
+.col-5{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.img-fluid{
+  max-width: 200%;
+}
+
+.btn4  {
+  background-color: seashell;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: hsl(229deg 60% 49%);
+    background-color: red;
+    border-width: 0px;
+    border-style: solid;
+    border-color: hsl(229deg 60% 49%);
+    border-radius: 999px;
+    padding: 11px 23px 11px 23px
+}
+.col-12{
+  font-family: 'Times New Roman', Times, serif;
+}
+custom-misc-2-con-chart{
+  padding: 40px 150px;
+  background-color: #f6f5f3;
+}
+
+.cuystom-card-2 .card-img-top{
+  max-height: 230px;
+}
+
+.cuystom-card-2 .card-title{
+  font-size: 15px;
+}
+.cuystom-card-2 .card-text{
+padding: 5px;
+  font-size: 10px;
+}
+.card3{
+  background-color: oldlace;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card-para-2{
+  font-family: 'Times New Roman', Times, serif;
+}
+.foot{
+ 
+  padding-bottom: 80px;
+  border-bottom: black;
+}
+
+.logot{
+  font-size: 20px;
+  font-weight: 600;
+  color: black
+}
+.footImg{
+  width: 150px;
+}
+
+.mt{
+  margin-top: 10%;
+}
+.anant{
+  background-color: mistyrose;
+  font-family: 'Times New Roman', Times, serif;
+}
+.form-icon{
+  position: relative;  
+  }
+  
+  .form-icon i{
+    position: absolute;
+    left: px;
+    top: 16%;
+  
+  }
+  
+  .form-icon input{
+    padding: 0 0 0 30px;
+  }
+  
+  .pill{
+    border-radius: 30px;
+  }
+  
+  .transaprent-kid{
+    position: absolute;
+    max-width: 311px;
+    right: 68px;
+    top: 100px;
+  }
+  .slider-image-team{
+    border-radius: 60px;
+    width: 150px;
+    height: 150px;
+  }
+  
+  
+  /* .custom-misc-3-con-chart{
+    background-color: #f6f5f3;
+  } */
+.button9{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Times New Roman', Times, serif;
+      background-color: red;
+      border-style: solid;
+      border-radius: 999px;
+      padding: 14px 27px 14px 27px
+  }
+.Anant2{
+    
+    height: 250px;
+  }
+.scholarship-event {
+    background-image: url("http://www.nsi-ins.ca/wp-content/uploads/2013/05/graduation-caps-backgrounds_1-746x405.jpg");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    margin: auto;
+    background-blend-mode: screen;
+    background-color: #726f6f;
+  }
+  
+  .scholarshipCard {
+    font-size: 14px;
+    width: 100%;
+    height: 50vh;
+    margin: 25% 40%;
+    background-color: rgba(22, 22, 22, 0.4);
+    padding: 20px;
+  }
+  
+  .spanEvent {
+    color: #06472c;
+    font-weight: 600;
+  }
+  
+  .spanE {
+    margin: 2% 1%;
+    width: 10%;
+    border-top: 3px solid #f3670a;
+  }
+  
+  .upcomingEvent {
+    margin: 100px 10px 0px 0px;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 70vh;
+    height: 55vh;
+  }
+  
+  .event-para {
+    padding-right: 40px;
+    color: #0a5523;
+  }
+  .calender {
+    background-color: rgba(31, 30, 30, 0.2);
+    width: 70px;
+    height: 70px;
+    color: white;
+    padding: 5px 0px;
+  }
+  .calender .digit {
+    padding: 7px 25px;
+  }
+  .month {
+    padding: 5px 16px;
+  }
+  .cal-head p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+  }
+  .lalala{
+    background-color: mistyrose;
+  }
+
